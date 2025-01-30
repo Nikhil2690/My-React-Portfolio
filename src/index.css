@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Ensures consistent box-sizing across elements */
+  font-family: "Arial", sans-serif; /* Sets a global font */
+}
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #f4f4f4;
+  color: #333;
+  line-height: 1.5;
+}
